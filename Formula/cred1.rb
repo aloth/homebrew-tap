@@ -1,8 +1,8 @@
 class Cred1 < Formula
   desc "CRED-1 domain credibility checker - library and CLI"
   homepage "https://github.com/aloth/cred-1"
-  url "https://github.com/aloth/cred-1/archive/refs/tags/v2026-09-08.tar.gz"
-  sha256 "0e0c8adbd0f97d867567e79c03fe43f066d7d5cb6de3cf1a7cb87fa95bb8bce0"
+  url "https://github.com/aloth/cred-1/archive/refs/tags/v2026-09-15.tar.gz"
+  sha256 "cf6c9e9808d7e6f4067643779dd47a4c3b39c707716a9c06aacf4bda63a3bdba"
   license "MIT"
 
   depends_on "node"
