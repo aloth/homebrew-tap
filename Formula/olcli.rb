@@ -1,8 +1,8 @@
 class Olcli < Formula
   desc "Overleaf CLI - sync LaTeX projects from the command line"
   homepage "https://github.com/aloth/olcli"
-  url "https://github.com/aloth/olcli/archive/refs/tags/v0.14.0.tar.gz"
-  sha256 "f607c20ff53d483a26faa837bcc80bcb7ec592ed7a6061f4eb2e163bd2ebdd5f"
+  url "https://github.com/aloth/olcli/archive/refs/tags/v0.15.0.tar.gz"
+  sha256 "598ccc45b34d77f2af6ba03c980e83fa79cce680a5b94d1a903b5efcc6bac7f3"
   license "MIT"
 
   depends_on "node"
