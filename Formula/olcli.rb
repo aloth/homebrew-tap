@@ -1,5 +1,5 @@
 class Olcli < Formula
-  desc "Overleaf CLI - sync LaTeX projects from the command line"
+  desc "Overleaf CLI with a git remote helper and MCP server"
   homepage "https://github.com/aloth/olcli"
   url "https://github.com/aloth/olcli/archive/refs/tags/v0.15.3.tar.gz"
   sha256 "1ff708f0b55f168eb1e464b754856698f750471055d6e934a6f12331c9526145"
