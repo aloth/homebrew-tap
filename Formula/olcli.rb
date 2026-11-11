@@ -1,8 +1,8 @@
 class Olcli < Formula
   desc "Overleaf CLI with a git remote helper and MCP server"
   homepage "https://github.com/aloth/olcli"
-  url "https://github.com/aloth/olcli/archive/refs/tags/v0.16.1.tar.gz"
-  sha256 "f5f33c5d552eb52bfcf3037bdb14ff3dacfa898c57708e5482dfd7c0e75f285d"
+  url "https://github.com/aloth/olcli/archive/refs/tags/v0.16.2.tar.gz"
+  sha256 "bcd9b9c86cf88f6a63ec8ba4e2b0bf0683f838384d3bf78d787d4a0e2d889baa"
   license "MIT"
 
   depends_on "node"
